@@ -10,7 +10,7 @@ jobs:
     - run: date && sleep
     - run: date && sleep
     - run: date && sleep
-    - run: date
+    - run: date && sleep
 
 
 workflows:
